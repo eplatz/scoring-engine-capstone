@@ -18,7 +18,7 @@ This scoring engine is to be used to practice for the Cyberpatriot competition. 
 * home.html
 6. Run the flask app
 * env FLASK_APP=scoring-engine-app.py FLASK_DEBUG=1 flask run
-** Setting debug=1 will allow for debugging, which will display errors 
+  * Setting debug=1 will allow for debugging, which will display errors 
 * Keep this terminal window open when running the app
 7. View the flask app in a web browser
 * 127.0.0.1:5000
